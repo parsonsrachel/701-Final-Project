@@ -3,6 +3,7 @@
 # https://slurm.schedmd.com/srun.html
 # https://rc-docs.northeastern.edu/en/latest/using-discovery/srun.html
 
+#map long reads to reference
 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
