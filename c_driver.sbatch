@@ -3,6 +3,8 @@
 # https://slurm.schedmd.com/srun.html
 # https://rc-docs.northeastern.edu/en/latest/using-discovery/srun.html
 
+#driver to get the correct formating for the short reads
+
 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
