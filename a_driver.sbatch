@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#driver for simulating the short reads
+
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=32
