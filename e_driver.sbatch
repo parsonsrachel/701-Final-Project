@@ -4,7 +4,7 @@
 # https://rc-docs.northeastern.edu/en/latest/using-discovery/srun.html
 
 
-
+#driver to run insurveyor
 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
